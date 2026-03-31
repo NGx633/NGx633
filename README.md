@@ -1,8 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-  Hola! Soy Ricardo/NGx633 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="50"/>
+  Hola! Soy Ricardo 
 </h1>
 <h3 align="center">
   Desarrollador principiante pero curioso.
